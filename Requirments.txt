@@ -1,0 +1,22 @@
+Requirments:
+1-Anaconda
+-creat environment.
+-install packeges:
+   1)keras
+   2)tensorflow
+   3)tensorflow-gpu
+   4)libopencv
+   5)opencv
+   6)py-opencv
+   7)flatbuffers
+   8)matplotlib
+   9)matplotlib-base
+   10)matplotlib-inline
+   11)scikit-image
+   12)scikit-learn
+   13)scikit-learn-intelex
+   14)category-encoders
+   15)sklearn-pandas
+
+2-Install python
+3-Install Jupyter notebook
